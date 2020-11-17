@@ -1,11 +1,19 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.25",
+	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "EditorDiscordRichPresence",
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "Fortnite_Styled_TODM",
+			"Enabled": true
+		},
+		{
+			"Name": "Fortnite_Landscape_Backdrop",
 			"Enabled": true
 		}
 	]
